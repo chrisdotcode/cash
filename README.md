@@ -34,7 +34,7 @@ footer.cash
 
 Command line:
 
-	$ cash --title "Learn cash in one easy steps!" \
+	$ cash --title "Learn cash in one easy step!" \
 	       --publishedDate "`date`" \
 	       -articleContent blogpost.md \
 	       --year "2015" \
@@ -44,7 +44,8 @@ Command line:
 	       footer.cash
 
 Output:
-	Learn cash in one easy steps! | My awesome blog post
+
+	Learn cash in one easy step! | My awesome blog post
 	Wed Nov  4 23:12:49 EST 2015
 	Hello, !
 
