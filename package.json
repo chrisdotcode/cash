@@ -1,0 +1,37 @@
+{
+  "name": "cash-template",
+  "version": "1.0.0",
+  "description": "A templating language for the command line.",
+  "main": "./lib/index.js",
+  "bin": {
+	  "cash": "./lib/index.js"
+  },
+  "dependencies": {
+    "telltale": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdotcode/cash.git"
+  },
+  "keywords": [
+    "template",
+    "templating",
+    "language",
+    "command",
+    "line",
+    "prompt",
+    "bash",
+    "terminal",
+    "view"
+  ],
+  "author": "Chris Blake",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/chrisdotcode/cash/issues"
+  },
+  "homepage": "https://github.com/chrisdotcode/cash#readme"
+}
